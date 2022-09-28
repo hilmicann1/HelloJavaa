@@ -1,5 +1,12 @@
 public class ProductValidator {
-    public boolean isValid(Product product) {
+
+    static {
+        System.out.println("Static yapıcı blok çalıştı");
+    }
+    public ProductValidator(){
+        System.out.println("Yapıcı blok çalıştı");
+    }
+    public static boolean isValid(Product product) {
         if (product.price > 0 && !product.name.isEmpty()) {
             return true;
         } else {
@@ -7,5 +14,14 @@ public class ProductValidator {
         }
 
 
+    }
+    public void bisey(){
+
+    }
+
+    public static class BaskaBirClass{
+        public static void Sil(){
+
+        }
     }
 }

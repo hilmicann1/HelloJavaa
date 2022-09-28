@@ -1,3 +1,5 @@
+package classesWithAttributes.src;
+
 public class Product {
 
 

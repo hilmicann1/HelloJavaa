@@ -1,3 +1,5 @@
+package multiDimensionalArrayDemo.src;
+
 //Çok Boyutlu Dizilerle Çalışma
 public class Main {
     public static void main(String [] args){

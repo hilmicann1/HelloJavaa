@@ -1,3 +1,5 @@
+package miniProjeAsalSayi.src;
+
 //mini proje sayi Asal Mı?
 public class Main {
     public static void main (String[] args){

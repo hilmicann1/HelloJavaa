@@ -1,7 +1,8 @@
+package abstractDemo.src;
 public class CustomerManager {
 
 
-    BaseDatabaseManager databaseManager;
+    static BaseDatabaseManager databaseManager;
 
     public void getCustomers(){
         databaseManager.getData();

@@ -1,3 +1,5 @@
+package inheritance.src;
+
 public class EmployeeManager extends PersonManager {
 
 

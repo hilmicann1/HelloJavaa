@@ -1,3 +1,5 @@
+package classesWithAttributes.src;
+
 public class ProductManager {
     public void Add(Product product){
         //JDBC

@@ -1,3 +1,5 @@
+package recapDemo1.src;
+
 public class Main {
     public static void main(String[] args){
         int sayi1 = 26;

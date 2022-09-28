@@ -1,3 +1,5 @@
+package mukemmelSayi.src;
+
 //Mukemmel sayi:kendinden baska pozitif tum tam bölenlerin sayisi kendisine esit olan toplamı kendisine esit olan sayiya denir
 // 6----> 1,2,3 toplamı 6 dir.
 //28----> 1,2,4,7,14

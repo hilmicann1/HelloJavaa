@@ -1,6 +1,5 @@
-import java.sql.SQLOutput;
-
 //arkadas sayilar 220-284 : kendileri haric pozitif tam bölenleri toplamı birbirine esit olan sayilara arkadas sayilar denir
+package arkadasSayilar.src;
 public class Main {
     public static void main(String[] args) {
 

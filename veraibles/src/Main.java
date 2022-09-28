@@ -1,3 +1,5 @@
+package veraibles.src;
+
 public class Main {
     public static void main(String[] args){
             int ögrenciSayisi = 12;

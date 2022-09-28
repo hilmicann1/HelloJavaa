@@ -1,3 +1,5 @@
+package classesWithAttributes.src;
+
 //Encapsulation-kapsülleme yaptık
 //Constructor ile çalışmak
 public class Main {

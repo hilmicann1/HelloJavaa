@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrayListTypedDemo/arrayListTypedDemo.iml" filepath="$PROJECT_DIR$/arrayListTypedDemo/arrayListTypedDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayListWithClass/arrayListWithClass.iml" filepath="$PROJECT_DIR$/arrayListWithClass/arrayListWithClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/arraylistDemo/arraylistDemo.iml" filepath="$PROJECT_DIR$/arraylistDemo/arraylistDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptionHandling/exceptionHandling.iml" filepath="$PROJECT_DIR$/exceptionHandling/exceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashMapDemo/hashMapDemo.iml" filepath="$PROJECT_DIR$/hashMapDemo/hashMapDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaceDemo/interfaceDemo.iml" filepath="$PROJECT_DIR$/interfaceDemo/interfaceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javademos.iml" filepath="$PROJECT_DIR$/.idea/javademos.iml" />
       <module fileurl="file://$PROJECT_DIR$/packagesDemo/packagesDemo.iml" filepath="$PROJECT_DIR$/packagesDemo/packagesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readingFileDemo/readingFileDemo.iml" filepath="$PROJECT_DIR$/readingFileDemo/readingFileDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/staticDemo/staticDemo.iml" filepath="$PROJECT_DIR$/staticDemo/staticDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/throwDemo/throwDemo.iml" filepath="$PROJECT_DIR$/throwDemo/throwDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workingWithFiles/workingWithFiles.iml" filepath="$PROJECT_DIR$/workingWithFiles/workingWithFiles.iml" />
     </modules>
   </component>
 </project>
